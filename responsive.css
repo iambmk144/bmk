@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-font {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.home-main-background {
+    background-image: url("https://img.freepik.com/premium-photo/restaurant_23-2148014999.jpg");
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+}
+
+.resturant-card {
+    background-color: transparent;
+    text-align: center;
+
+
+}
+
+.home-headline {
+    color: white;
+    font-familY: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+
+}
+
+.home-des {
+
+    color: white;
+    font-familY: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.view-button {
+    background-color: #949e08;
+    color: white;
+    height: 46px;
+    width: 126px;
+    border-radius: 8px;
+    border-width: 0px;
+}
+
+.order-button {
+    background-color: transparent;
+    color: #e3f20c;
+    height: 46px;
+    width: 126px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: #e3f20c;
+    border-style: solid;
+}
+
+.why-choose-us-headline {
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.why-choose-us-des {
+    font-size: 20px;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.healthy-food-card {
+    background-color: #eef2df;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 7px;
+
+}
+
+.img-property {
+    height: 85px;
+    width: 90px;
+}
+
+.health-card-headline {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.health-card-des {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.offer {
+    font-weight: bold;
+}
+
+.explore-card {
+    background-color: #eef2df;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+
+.image-radius {
+    border-radius: 16px;
+}
+
+.explore-card-headline {
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.explore-card-amchor {
+    color: #61780a;
+}
+
+.payment-section-image {
+    height: 300px;
+    width: 100%;
+    border-radius: 16px;
+}
+
+.payment-card {
+    background-color: white;
+
+}
+
+.payment-card-headline {
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.paynent-cd-des {
+    font-size: 15px;
+    font-family: "Roboto";
+
+}
+
+.thanks-card {
+    background-color: #f5c96c;
+}
+
+.thanks-headline {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.thanks-card-des {
+    font-size: 20px;
+}
+
+.thnks-imge {
+    height: 200px;
+    width: 200px;
+}
+
+.follow-section-headline {
+    font-size: 25px;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.follow-us-icon {
+    color:
+        #f5c96c;
+
+    font-size: 60px;
+
+}
+
+.footer-background-color {
+    background-color: #0d2436;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer-section-headline {
+    color: #b5c3c4;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.footer-section-des {
+    color: #b5c3c4;
+    font-size: 12px;
+}
+
+.footer-section-imagwe {
+    height: 100px;
+    width: 100;
+    border-radius: 45px;
+}
